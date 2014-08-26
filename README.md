@@ -1,7 +1,7 @@
 minesweeper
 ===========
 
-Project Archive: Minesweeper clone written in Pascal Language in 2007. Game screenshots:
+Project archive: Minesweeper clone written in Pascal Language in 2007. Game screenshots:
 
 ![Main Menu](https://dl.dropboxusercontent.com/u/435780/saper-pas-1.png "Main Menu")
 
